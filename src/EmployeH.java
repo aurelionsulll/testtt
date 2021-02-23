@@ -26,10 +26,10 @@ public class EmployeH extends Employe{
 
 
 
-    // @Override
-    // public void setSalaire(int salaire)
-    // {   
-    //     this.salaire = salaire;
-    // }
+    @Override
+    public void setSalaire(int salaire)
+    {   
+        this.salaire = salaire;
+    }
     
 }
